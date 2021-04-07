@@ -1,3 +1,8 @@
+<center>Jace Bruner | Satisfying Stars | 3/31/2021</center>
+
+![Image](/assets/SatisfyingStars.png)
+Midterm Video: [Link](https://youtu.be/k0vs9TMm_1k)
+
 ## Satisfying Stars
 
 You can use the [editor on GitHub](https://github.com/jhbruner24/SatisfyingStars/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,14 +32,6 @@ Syntax highlighted code block
 ```
 
 # Header 1
-
-Image test
-
-![Image](/assets/SatisfyingStars.png)
-
-![Image](../assets/SatisfyingStars.png)
-
-![Image](/assets/SatisfyingStars.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
