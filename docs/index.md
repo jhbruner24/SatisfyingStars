@@ -1,9 +1,8 @@
-<center>Jace Bruner | Satisfying Stars | 3/31/2021
+<center>Jace Bruner | Satisfying Stars | 3/31/2021</center>
 
-![Image](/assets/SatisfyingStars.png){: width="500" }
+<center>![Image](/assets/SatisfyingStars.png){: width="500" }</center>
 
-Midterm Video: [Link](https://youtu.be/k0vs9TMm_1k)
-</center>
+<center>Midterm Video: [Link](https://youtu.be/k0vs9TMm_1k)</center>
 
 ## Description
 This project was created to mimic the 3D animation found here: [Link](https://youtu.be/iLRsCtd5P9s?t=427)
