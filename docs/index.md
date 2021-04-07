@@ -1,7 +1,8 @@
 <center>Jace Bruner | Satisfying Stars | 3/31/2021</center>
 
-![Image](/assets/SatisfyingStars.png)
+![Image](/assets/SatisfyingStars.png){: width="250" }
 Midterm Video: [Link](https://youtu.be/k0vs9TMm_1k)
+![Image](/assets/SatisfyingStars.png){: width="500" }
 
 ## Satisfying Stars
 
