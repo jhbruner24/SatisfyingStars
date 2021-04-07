@@ -1,10 +1,12 @@
-<center>Jace Bruner | Satisfying Stars | 3/31/2021</center>
+<center>Jace Bruner | Satisfying Stars | 3/31/2021
 
-![Image](/assets/SatisfyingStars.png){: width="250" }
-Midterm Video: [Link](https://youtu.be/k0vs9TMm_1k)
 ![Image](/assets/SatisfyingStars.png){: width="500" }
 
-## Satisfying Stars
+Midterm Video: [Link](https://youtu.be/k0vs9TMm_1k)
+</center>
+
+## Description
+This project was created to mimic the 3D animation found here: [Link](https://youtu.be/iLRsCtd5P9s?t=427)
 
 You can use the [editor on GitHub](https://github.com/jhbruner24/SatisfyingStars/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
