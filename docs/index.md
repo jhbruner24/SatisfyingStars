@@ -26,7 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](/assets/SatisfyingStars)
 ```
 
-![Image](/assets/SatisfyingStars)
+![Image](/assets/SatisfyingStars.png)
+![Image](../assets/SatisfyingStars.png)
+![Image](/assets/SatisfyingStars.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
