@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](/assets/SatisfyingStars)
 ```
 
+# Header 1
+
 Image test
 
 ![Image](/assets/SatisfyingStars.png)
