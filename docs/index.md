@@ -11,6 +11,9 @@ The 3D animation depicts a seemingly frictionless world where a ball seemlessly 
 
 The completed project was submitted for the midterm of Design Innovation 23 at UC Berkeley.
 
+Project code can be found in the file "SatisfyingStars.ino".
+Additional images may be found in the "assets" directory.
+
 ## Project Progression
 <img src="assets/Animation.png" style="width:25%; height:10%"/>
 <img src="assets/Arrow.png" style="width:10%;margin-bottom:7%"/>
