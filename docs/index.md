@@ -5,14 +5,14 @@
 <center>Midterm Video: <a href="https://youtu.be/k0vs9TMm_1k">https://youtu.be/k0vs9TMm_1k</a></center>
 
 ## Description
-This project was inspired the 3D animation found here: [Link](https://youtu.be/iLRsCtd5P9s?t=427)
+This project was inspired the 3D animation found here: [https://youtu.be/iLRsCtd5P9s?t=427](https://youtu.be/iLRsCtd5P9s?t=427)
 
 The 3D animation depicts a seemingly frictionless world where a ball seemlessly slides over a rotating 3D elyptically shaped obeject. 
 
 The completed project was submitted for the midterm of Design Innovation 23 at UC Berkeley.
 
-Project code can be found in the file "SatisfyingStars.ino".
-Additional images may be found in the "assets" directory.
+Project code can be found in the file [SatisfyingStars.ino](https://github.com/jhbruner24/SatisfyingStars/blob/d24463c2ceeefa136f837ad9eb4c5c87c3300134/SatisfyingStars.ino).
+Additional images may be found in the "docs/assets" directory.
 
 ## Project Progression
 <img src="assets/Animation.png" style="width:25%; height:10%"/>
